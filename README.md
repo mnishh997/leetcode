@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/mnishh997/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/mnishh997/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mnishh997/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/mnishh997/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/mnishh997/leetcode/tree/master/0907-koko-eating-bananas) |
 # Greedy
 |  |
 | ------- |
