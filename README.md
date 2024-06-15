@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mnishh997/leetcode/tree/master/0148-sort-list) |
 | [0502-ipo](https://github.com/mnishh997/leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mnishh997/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mnishh997/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
 # Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mnishh997/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
 # Stack
 |  |
@@ -68,3 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mnishh997/leetcode/tree/master/0148-sort-list) |
+# Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mnishh997/leetcode/tree/master/0148-sort-list) |
