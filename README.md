@@ -52,3 +52,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/mnishh997/leetcode/tree/master/0502-ipo) |
+# Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mnishh997/leetcode/tree/master/0234-palindrome-linked-list) |
