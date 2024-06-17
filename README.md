@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/mnishh997/leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/mnishh997/leetcode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mnishh997/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/mnishh997/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/mnishh997/leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/mnishh997/leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mnishh997/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Sorting
