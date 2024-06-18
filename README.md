@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mnishh997/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mnishh997/leetcode/tree/master/0213-house-robber-ii) |
 | [0330-patching-array](https://github.com/mnishh997/leetcode/tree/master/0330-patching-array) |
+| [0416-partition-equal-subset-sum](https://github.com/mnishh997/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/mnishh997/leetcode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mnishh997/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/mnishh997/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/mnishh997/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/mnishh997/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mnishh997/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mnishh997/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/mnishh997/leetcode/tree/master/0967-minimum-falling-path-sum) |
 # Memoization
 |  |
