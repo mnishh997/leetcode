@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mnishh997/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/mnishh997/leetcode/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/mnishh997/leetcode/tree/master/0633-sum-of-square-numbers) |
 # Backtracking
 |  |
@@ -106,3 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/mnishh997/leetcode/tree/master/0090-subsets-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mnishh997/leetcode/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mnishh997/leetcode/tree/master/0070-climbing-stairs) |
