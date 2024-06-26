@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mnishh997/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/mnishh997/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mnishh997/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1036-rotting-oranges](https://github.com/mnishh997/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mnishh997/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1138-grumpy-bookstore-owner](https://github.com/mnishh997/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mnishh997/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -179,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mnishh997/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mnishh997/leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/mnishh997/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/mnishh997/leetcode/tree/master/1036-rotting-oranges) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mnishh997/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mnishh997/leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/mnishh997/leetcode/tree/master/1036-rotting-oranges) |
 # Queue
 |  |
 | ------- |
