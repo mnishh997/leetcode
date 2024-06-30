@@ -246,8 +246,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
