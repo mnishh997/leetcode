@@ -228,3 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mnishh997/leetcode/tree/master/0547-number-of-provinces) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/mnishh997/leetcode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/mnishh997/leetcode/tree/master/2050-count-good-numbers) |
+<!---LeetCode Topics End-->
