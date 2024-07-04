@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
+| [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,8 +256,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
+| [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
