@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
+| [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -278,12 +279,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
 ## Hash Table
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
