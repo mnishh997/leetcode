@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mnishh997/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
@@ -285,11 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mnishh997/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mnishh997/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mnishh997/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mnishh997/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
