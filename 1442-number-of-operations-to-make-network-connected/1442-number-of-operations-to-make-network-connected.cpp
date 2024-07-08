@@ -19,8 +19,9 @@
 using namespace std;
 
 class DisjointSet{
-    vector<ll> rank, size, parent;
+    
     public:
+    vector<ll> rank, size, parent;
         DisjointSet(ll n){
             rank.resize(n+1, 0);
             size.resize(n+1, 1);
@@ -76,11 +77,12 @@ public:
                 ds.union_by_rank(it[0], it[1]);
             }
         }
-        set<int> s;
+        int cnt = 0;
         for(int i=0;i<n;i++){
-            s.insert(ds.find_par(i));
+            // s.insert(ds.find_par(i));
+            if(ds.parent[i] == i)cnt++;
         }
-        int required = s.size()-1;
+        int required = cnt-1;
         if(extra>=required)return required;
         return -1;
     }
