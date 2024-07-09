@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1325-path-with-maximum-probability](https://github.com/mnishh997/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1803-average-waiting-time](https://github.com/mnishh997/leetcode/tree/master/1803-average-waiting-time) |
@@ -283,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mnishh997/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
+| [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mnishh997/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mnishh997/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/mnishh997/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
