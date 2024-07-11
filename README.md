@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mnishh997/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
@@ -368,5 +369,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mnishh997/leetcode/tree/master/0020-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
