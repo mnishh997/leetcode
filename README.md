@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mnishh997/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mnishh997/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mnishh997/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
@@ -382,4 +383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mnishh997/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mnishh997/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
