@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/mnishh997/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/mnishh997/leetcode/tree/master/0724-find-pivot-index) |
 | [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1325-path-with-maximum-probability](https://github.com/mnishh997/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mnishh997/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mnishh997/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mnishh997/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
