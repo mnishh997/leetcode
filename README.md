@@ -281,7 +281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mnishh997/leetcode/tree/master/1803-average-waiting-time) |
-| [1833-find-the-highest-altitude](https://github.com/mnishh997/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -394,5 +393,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mnishh997/leetcode/tree/master/0724-find-pivot-index) |
-| [1833-find-the-highest-altitude](https://github.com/mnishh997/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
