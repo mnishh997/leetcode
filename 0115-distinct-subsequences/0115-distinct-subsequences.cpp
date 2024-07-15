@@ -1,5 +1,5 @@
 class Solution {
-
+    // question says that answer will fit in 32-bit integer but it is not. Taking mod is indeed giving correct answer.
     int mod= 1e9 + 7;
 public:
     int numDistinct(string s, string t) {
