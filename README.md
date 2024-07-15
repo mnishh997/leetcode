@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/mnishh997/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/mnishh997/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mnishh997/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mnishh997/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/mnishh997/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/mnishh997/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mnishh997/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
