@@ -242,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mnishh997/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/mnishh997/leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mnishh997/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/mnishh997/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/mnishh997/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/mnishh997/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 ## Breadth-First Search
