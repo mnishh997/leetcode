@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/mnishh997/leetcode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mnishh997/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mnishh997/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/mnishh997/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
