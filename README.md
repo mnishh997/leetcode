@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/mnishh997/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/mnishh997/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mnishh997/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/mnishh997/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 ## Breadth-First Search
