@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mnishh997/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/mnishh997/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mnishh997/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/mnishh997/leetcode/tree/master/1642-water-bottles) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mnishh997/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/mnishh997/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/mnishh997/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mnishh997/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Backtracking
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/mnishh997/leetcode/tree/master/0137-single-number-ii) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/mnishh997/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
