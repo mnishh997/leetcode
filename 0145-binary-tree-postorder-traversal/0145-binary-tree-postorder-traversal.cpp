@@ -14,20 +14,36 @@ public:
     vector<int> postorderTraversal(TreeNode* root) {
         // this is iterative postorder traversal = left, root, right
 
-        vector<int> post;
-        stack<TreeNode*> st;
-        if(root == NULL) return post;
+        // inorder preorder postorder in just one iteration
+
+        stack<pair<TreeNode*, int>> st;
+        vector<vector<int>> v(3, vector<int>());
+        if(root == NULL)return {};
         TreeNode* node = root;
-        st.push(node);
+
+        st.push({node, 0});
 
         while(!st.empty()){
-            node = st.top();
-            st.pop();
-            if(node->left != NULL)st.push(node->left);
-            if(node->right != NULL)st.push(node->right);
-            post.push_back(node->val);
+            node = st.top().first;
+            int num = st.top().second;
+
+            if(num == 0){
+                st.pop();
+                v[num].push_back(node->val);
+                st.push({node, 1});
+                if(node->left!=NULL)st.push({node->left, 0});
+            }
+            if(num == 1){
+                st.pop();
+                v[num].push_back(node->val);
+                st.push({node, 2});
+                if(node->right!=NULL)st.push({node->right, 0});
+            }
+            if(num == 2){
+                st.pop();
+                v[num].push_back(node->val);
+            }
         }
-        reverse(post.begin(), post.end());
-        return post;
+        return v[2];
     }
 };
