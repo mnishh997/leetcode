@@ -12,90 +12,37 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        // this is iterative inorder traversal - left, root, right
+        // preorder, inorder and postorder traversal in just  one traversal
 
-        // vector<int> in;
-        // TreeNode * node = root;
-        // stack<TreeNode*> st;
-        // while(true){
-        //     if(node == NULL){
-        //         if(st.empty()==true)break;
-        //         node = st.top();
-        //         st.pop();
-        //         in.push_back(node->val);
+        stack<pair<TreeNode*, int>> st;
+        if(root == NULL)return {};
 
-        //         node = node->right;
-        //     }
-        //     else{
-        //         st.push(node);
-        //         node = node->left;
-        //     }
-        // }
-        // return in;
+        vector<vector<int>> v(3, vector<int>());
+TreeNode* node = root;
+st.push({node, 0});
+        while(!st.empty()){
+            node = st.top().first;
+            int num = st.top().second;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        stack<TreeNode*> st;
-        TreeNode* node = root;
-        vector<int> in;
-        while(true)
-        {
-            if(node == NULL){
-                if(st.empty() == true)break;
-                else{
-                    node = st.top();
-                    st.pop();
-                    in.push_back(node->val);
-                    node = node->right;
-                }
+            if(num == 0){
+                st.pop();
+                v[num].push_back(node->val);
+                st.push({node, 1});
+                if(node->left!=NULL)st.push({node->left, 0});
             }
-            else{
-                st.push(node);
-                node = node->left;
+            if(num == 1){
+                st.pop();
+                v[num].push_back(node->val);
+                st.push({node, 2});
+                if(node->right!=NULL)st.push({node->right, 0});
             }
+            if(num == 2){
+                st.pop();
+                v[num].push_back(node->val);
+                
+            }
+            
         }
-        return in;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        return v[1];
     }
 };
