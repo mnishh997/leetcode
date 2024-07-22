@@ -9,34 +9,30 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ #define ll long long int
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
+        queue<pair<ll, TreeNode*>> q;
 
-        queue<pair<TreeNode*, unsigned long long>> q;
-        q.push({root, 1});
-        int ans = 0;
+        q.push({0, root});
+        ll res = 0;
+        while(!q.empty()){
+            ll sz = q.size();
+            ll start=INT_MAX, end=0;
+            ll min_ind = q.front().first;
+            while(sz--){
+                ll ind = q.front().first-min_ind;
+                TreeNode* node = q.front().second;
+                start = min(start, ind);
+                end = max(end, ind);
 
-        while (!q.empty()) {
-            int sz = q.size();
-            unsigned long long start = q.front().second; // Index of the first node in the current level
-            unsigned long long end = q.back().second;   // Index of the last node in the current level
-            ans = max(ans, int(end - start + 1));       // Update the maximum width
-
-            for (int i = 0; i < sz; ++i) {
-                TreeNode* node = q.front().first;
-                unsigned long long index = q.front().second;
                 q.pop();
 
-                // Normalize index to prevent overflow
-                unsigned long long normalizedIndex = index - start;
-
-                if (node->left) q.push({node->left, 2 * normalizedIndex});
-                if (node->right) q.push({node->right, 2 * normalizedIndex + 1});
+                if(node->left != NULL)q.push({2*ind +1, node->left});
+                if(node->right != NULL)q.push({2*ind+2, node->right});
             }
-        }
-
-        return ans;
+            res = max(res,end-start+1);
+        }return res;
     }
 };
