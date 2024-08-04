@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1325-path-with-maximum-probability](https://github.com/mnishh997/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mnishh997/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mnishh997/leetcode/tree/master/1803-average-waiting-time) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mnishh997/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mnishh997/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -532,4 +534,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mnishh997/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
