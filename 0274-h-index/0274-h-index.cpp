@@ -14,7 +14,7 @@ public:
                 size--;
             }
         }
-        if(res == 0)return res;
+        // if(res == 0)return res;
         return res-1;
     }
 };
