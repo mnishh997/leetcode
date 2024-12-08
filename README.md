@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/mnishh997/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/mnishh997/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mnishh997/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Backtracking
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mnishh997/leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/mnishh997/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mnishh997/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mnishh997/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mnishh997/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mnishh997/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 | [1325-path-with-maximum-probability](https://github.com/mnishh997/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Shortest Path
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mnishh997/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
