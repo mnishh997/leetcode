@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mnishh997/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mnishh997/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mnishh997/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mnishh997/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
