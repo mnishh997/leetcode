@@ -1,10 +1,11 @@
 class Solution {
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        vector<int> v(100002, 0);
+        int n = *max_element(nums.begin(), nums.end());
+        vector<int> v(n+2, 0);
         for(auto it: nums) {
             v[max(it-k, 0)] += 1;
-            v[min(it+k+1, 100001)] += -1;
+            v[min(it+k+1, n+1)] += -1;
         }
         int preSum = 0;
         int maxi = 1;
