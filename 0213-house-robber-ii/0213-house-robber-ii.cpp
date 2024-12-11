@@ -1,29 +1,30 @@
 class Solution {
-    void f(vector<int>&temp, vector<int>& dp){
-        dp[0]=temp[0];
-        if(temp.size()==1)return;
-        dp[1]=max(temp[0],temp[1]);
-        for(int i=2;i<temp.size();i++){
-            dp[i]=max(dp[i-1],dp[i-2]+temp[i]);
-        }
-        return;
-    }
 public:
+    int f(vector<int>& v) {
+        int n = v.size();
+        if(n == 1) return v[0];
+        if(n == 2)return max(v[1], v[0]);
+        int a = max(v[1], v[0]), b = v[0], c = 0;
+        for(int i=2;i<n;i++) {
+            c = max(a, b+v[i]);
+            b = a, a = c;
+        }
+        return max(a, b);
+    }
+
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n==1)return nums[0];
-        vector<int> temp;
-        for(int i=0;i<nums.size()-1;i++){
-            temp.push_back(nums[i]);
+        if(n == 1) return nums[0];
+        if(n == 2) return max(nums[0], nums[1]);
+        vector<int> v;
+        for(int i=0;i<n-1;i++) {
+            v.push_back(nums[i]);
         }
-
-        vector<int> dp1(n-1,0);
-        f(temp, dp1);
-        for(int i=1;i<n;i++){
-            temp[i-1]=nums[i];
+        int maxi = f(v);
+        for(int i=1;i<n;i++) {
+            v[i-1] = nums[i];
         }
-        vector<int> dp2(n-1,0);
-        f(temp, dp2);
-        return max(dp1[n-2],dp2[n-2]);
+        maxi = max(maxi, f(v));
+        return maxi;
     }
 };
