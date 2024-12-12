@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mnishh997/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mnishh997/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/mnishh997/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mnishh997/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/mnishh997/leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/mnishh997/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mnishh997/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mnishh997/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mnishh997/leetcode/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/mnishh997/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/mnishh997/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mnishh997/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
