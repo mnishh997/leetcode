@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [1325-path-with-maximum-probability](https://github.com/mnishh997/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mnishh997/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mnishh997/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mnishh997/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/mnishh997/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mnishh997/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mnishh997/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mnishh997/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mnishh997/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/mnishh997/leetcode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/mnishh997/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
@@ -633,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/mnishh997/leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mnishh997/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
