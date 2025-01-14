@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mnishh997/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mnishh997/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mnishh997/leetcode/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/mnishh997/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/mnishh997/leetcode/tree/master/0643-maximum-average-subarray-i) |
