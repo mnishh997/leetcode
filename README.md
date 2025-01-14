@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mnishh997/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mnishh997/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mnishh997/leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/mnishh997/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mnishh997/leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/mnishh997/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mnishh997/leetcode/tree/master/0213-house-robber-ii) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mnishh997/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mnishh997/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/mnishh997/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mnishh997/leetcode/tree/master/0268-missing-number) |
