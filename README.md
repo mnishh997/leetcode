@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mnishh997/leetcode/tree/master/0621-task-scheduler) |
 | [1917-maximum-average-pass-ratio](https://github.com/mnishh997/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mnishh997/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/mnishh997/leetcode/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/mnishh997/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mnishh997/leetcode/tree/master/0268-missing-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mnishh997/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/mnishh997/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mnishh997/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Memoization
