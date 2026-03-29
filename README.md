@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mnishh997/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mnishh997/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/mnishh997/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mnishh997/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
