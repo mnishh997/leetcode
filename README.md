@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mnishh997/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mnishh997/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Graph
 |  |
 | ------- |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mnishh997/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
