@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/mnishh997/leetcode/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/mnishh997/leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mnishh997/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mnishh997/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/mnishh997/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/mnishh997/leetcode/tree/master/3427-special-array-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mnishh997/leetcode/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [2573-find-the-string-with-lcp](https://github.com/mnishh997/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/mnishh997/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mnishh997/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mnishh997/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mnishh997/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
