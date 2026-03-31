@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mnishh997/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mnishh997/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mnishh997/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/mnishh997/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2716-prime-subtraction-operation](https://github.com/mnishh997/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mnishh997/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mnishh997/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/mnishh997/leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -690,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/mnishh997/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/mnishh997/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
