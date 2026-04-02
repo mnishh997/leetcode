@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/mnishh997/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/mnishh997/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2573-find-the-string-with-lcp](https://github.com/mnishh997/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mnishh997/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Backtracking
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mnishh997/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mnishh997/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mnishh997/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/mnishh997/leetcode/tree/master/3427-special-array-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/mnishh997/leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/mnishh997/leetcode/tree/master/0854-making-a-large-island) |
 | [2573-find-the-string-with-lcp](https://github.com/mnishh997/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mnishh997/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mnishh997/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
