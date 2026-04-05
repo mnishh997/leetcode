@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/mnishh997/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/mnishh997/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mnishh997/leetcode/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/mnishh997/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/mnishh997/leetcode/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mnishh997/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/mnishh997/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/mnishh997/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/mnishh997/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/mnishh997/leetcode/tree/master/1803-average-waiting-time) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/mnishh997/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
