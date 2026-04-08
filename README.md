@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/mnishh997/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mnishh997/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mnishh997/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mnishh997/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/mnishh997/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mnishh997/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mnishh997/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mnishh997/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mnishh997/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mnishh997/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mnishh997/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
