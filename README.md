@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/mnishh997/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mnishh997/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mnishh997/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3905-multi-source-flood-fill](https://github.com/mnishh997/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Greedy
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mnishh997/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mnishh997/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/mnishh997/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [3905-multi-source-flood-fill](https://github.com/mnishh997/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Matrix
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mnishh997/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mnishh997/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mnishh997/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3905-multi-source-flood-fill](https://github.com/mnishh997/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Depth-First Search
 |  |
 | ------- |
